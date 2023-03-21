@@ -9,11 +9,11 @@ layout: page
         <h1 class="text-4xl font-bold">{{ site.app_name }}</h1>
         <p class="text-xl font-semibold mb-1">{{ site.app_subtitle }}</p>
         <div class="flex space-x-2 max-w-full">
-            <a href="{{ site.app_download }}" target="_blank" rel="noopener noreferrer">
+            <a href="{{ site.app_download }}" target="_self" rel="noopener noreferrer">
                 <img class="h-14" src="assets/apple-badge.png" alt="download" />
             </a>
             {% if site.app_github %}
-            <a href="{{ site.app_github }}" target="_blank" rel="noopener noreferrer">
+            <a href="{{ site.app_github }}" target="_self" rel="noopener noreferrer">
                 <img class="h-14" src="assets/github-badge.png" alt="open on github" />
             </a>
             {% endif %}
