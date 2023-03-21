@@ -1,9 +1,9 @@
-app_name: World Chain Network
-app_subtitle: Earn World Chain Token
-app_download: https://play.google.com/store/apps/details?id=com.ekicisoft.worldchain&referrer=JUgFvlpuAeWRWMvWiRiuWVzN5ZI3
-app_github: https://play.google.com/store/apps/details?id=com.ekicisoft.worldchain&referrer=JUgFvlpuAeWRWMvWiRiuWVzN5ZI3
+app_name: Epic Network
+app_subtitle: Earn Epic Token
+app_download: mineepic.com/Epic.apk
+app_github: mineepic.com/Epic.apk
 app_id: 1534437697
-email: mail@kruschel.dev
+email: support@mineepic.com
 app_icon: /assets/icon.png
 favicon: /assets/icon.png
 
@@ -15,9 +15,9 @@ links:
 
 app_description: |
 
- World Chain Network Mining App
- Earn WorldChain Token
- 1500 WorlChain Token every Referral
+ EPIC is fairly distributed,
+ eco-friendly and consumes minimal battery power.
+ EPIC is fair and valuable to everyone.
     
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
